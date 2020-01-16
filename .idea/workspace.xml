@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0864cec-8a77-489c-bb64-93c053cedcf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UOL4m3ATEUExvZK7ooW431Racq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/IntCodeCalc.py" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/IntCodeCalc.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\advent_of_code\advent_of_code_2019\8" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.donut_maze">
+    <configuration name="amplifiers" type="PythonConfigurationType" factoryName="Python">
+      <module name="advent_of_code_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="care_package" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advent_of_code_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13/care_package.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="donut_maze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advent_of_code_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/20" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20/donut_maze.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nbody" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advent_of_code_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/nbody.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="space_police" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advent_of_code_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11/space_police.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="space_stoichiometry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="advent_of_code_2019" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14/space_stoichiometry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.donut_maze" />
+        <item itemvalue="Python.space_stoichiometry" />
+        <item itemvalue="Python.care_package" />
+        <item itemvalue="Python.nbody" />
+        <item itemvalue="Python.space_police" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0864cec-8a77-489c-bb64-93c053cedcf1" name="Default Changelist" comment="" />
+      <created>1575222505102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575222505102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="38" key="#amplifiers" timestamp="1575749931066">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="38" key="#amplifiers/0.0.1536.824@0.0.1536.824" timestamp="1575749931066" />
+    <state x="496" y="38" key="#amplifiers_(1)" timestamp="1575749950766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="38" key="#amplifiers_(1)/0.0.1536.824@0.0.1536.824" timestamp="1575749950766" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575749913662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1575749913662" />
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575749930133">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="195" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1575749930133" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1576270455925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576270455925" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1576270424311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576270424311" />
+    <state width="1899" height="394" key="GridCell.Tab.0.bottom" timestamp="1576877702646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.bottom/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@-1920.11.1536.832" timestamp="1576862239113" />
+    <state width="1899" height="394" key="GridCell.Tab.0.bottom/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576877702646" />
+    <state width="1899" height="444" key="GridCell.Tab.0.bottom/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1576860609626" />
+    <state width="1515" height="495" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1576274707353" />
+    <state width="1899" height="495" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576268979346" />
+    <state width="1515" height="391" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576688634489" />
+    <state width="1899" height="394" key="GridCell.Tab.0.center" timestamp="1576877702646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.center/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@-1920.11.1536.832" timestamp="1576862239113" />
+    <state width="1899" height="394" key="GridCell.Tab.0.center/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576877702646" />
+    <state width="1899" height="444" key="GridCell.Tab.0.center/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1576860609626" />
+    <state width="1515" height="495" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1576274707353" />
+    <state width="1899" height="495" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576268979346" />
+    <state width="1515" height="391" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1576688634489" />
+    <state width="1899" height="394" key="GridCell.Tab.0.left" timestamp="1576877702646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.left/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@-1920.11.1536.832" timestamp="1576862239112" />
+    <state width="1899" height="394" key="GridCell.Tab.0.left/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576877702646" />
+    <state width="1899" height="444" key="GridCell.Tab.0.left/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1576860609625" />
+    <state width="1515" height="495" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1576274707353" />
+    <state width="1899" height="495" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576268979346" />
+    <state width="1515" height="391" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1576688634489" />
+    <state width="1899" height="394" key="GridCell.Tab.0.right" timestamp="1576877702646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="240" key="GridCell.Tab.0.right/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@-1920.11.1536.832" timestamp="1576862239113" />
+    <state width="1899" height="394" key="GridCell.Tab.0.right/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576877702646" />
+    <state width="1899" height="444" key="GridCell.Tab.0.right/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1576860609626" />
+    <state width="1515" height="495" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1576274707353" />
+    <state width="1899" height="495" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1576268979346" />
+    <state width="1515" height="391" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1576688634489" />
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1576789146369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576789146369" />
+    <state x="581" y="298" key="com.intellij.ide.util.TipDialog/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1576762976298" />
+    <state x="2429" y="323" key="com.intellij.ide.util.TipDialog/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@1920.34.1680.1010" timestamp="1576159736569" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1576264459209" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1575985194633" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1576026955364" />
+    <state x="656" y="125" width="607" height="789" key="find.popup" timestamp="1576181936786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="125" width="607" height="789" key="find.popup/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576181936786" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576520862670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.11.1536.832/0.0.1920.1040/1920.34.1680.1010@0.0.1920.1040" timestamp="1576520862670" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.11.1536.832/1920.34.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1576161162144" />
+  </component>
+</project>
